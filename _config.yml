@@ -19,13 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Thoughts & Notes by Yair Korin
-email: notes@11y11.com
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to a daring leap into my mind, where thoughts, once held captive, 
   now roam free. This blog is a risk, an unveiling of my wide-ranging curiosities, 
   with a particular spotlight on technology and my wildest musings. 
-  Dive in and join me on this unpredictable journey through the realms of tech
-  and thought. Welcome to my personal adventure. Welcome to my blog.
+  Dive in and join me on this unpredictable journey through the realms of my imagination. 
+  Welcome to my personal adventure. Welcome to my blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yairkorin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yakito
